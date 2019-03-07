@@ -9,4 +9,7 @@ export class AppComponent {
 
   constructor() { }
 
+  logCountDown(){
+    console.log('Count End');
+  }
 }
